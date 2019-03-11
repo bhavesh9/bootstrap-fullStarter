@@ -1,1 +1,0 @@
-var helo = document.getElementById("demo");
